@@ -29,5 +29,3 @@ mongoose.connect(
   }
 );
 
-// password for mongodb database piL6BlyLKiq0MQ2r
-// mongodb+srv://alex1ptb:piL6BlyLKiq0MQ2r@snippet-manager-cluster.e7vkq.mongodb.net/main?retryWrites=true&w=majority
